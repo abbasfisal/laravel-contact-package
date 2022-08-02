@@ -1,0 +1,19 @@
+{
+    "name": "abbasfisal/contact",
+    "description": "a very simple package wich implements the contact form",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abbasfisal\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abbas Momeni",
+            "email": "abbasmomeny1994@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
